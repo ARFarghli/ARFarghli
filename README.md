@@ -6,7 +6,7 @@ My background is in cancer biology, with a focus on fibrolamellar carcinoma (FLC
 
 Currently seeking postdoc and industry positions in computational biology and single-cell genomics.
 
-📍 Cornell University &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/arfarghli/)
+📍 Cornell University &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/arfarghli/) &nbsp;|&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=QSwMrooAAAAJ)
 
 ---
 
@@ -32,23 +32,23 @@ Currently seeking postdoc and industry positions in computational biology and si
 
 ### Peer-reviewed
 
-**Farghli, A. R.**, Chan, M., Sherman, M. S., et al. (2026). Single-nucleus ATAC-seq analysis resolves chromatin and transcriptional features of fibrolamellar carcinoma. *Scientific Reports* (Revisions).
+**Farghli, A. R.**, Sherman, M. S., Shui, B., Stephanou, A., Pepe-Mooney, B. J., et al. (2026). Single-nucleus ATAC-seq analysis resolves chromatin and transcriptional features of fibrolamellar carcinoma. *Scientific Reports*.
 
-Carter, J. A., Dickerson, L. K., Stephanou, A., ..., **Farghli, R. A.**, ..., Pillarisetty, V. G. (2025). Overcoming CXCR4-mediated T cell exclusion potentiates antitumor cytotoxicity in fibrolamellar carcinoma. *Gastroenterology* (Editorially Accepted).
+Carter, J. A., Dickerson, L. K., Stephanou, A., et al. (2026). Overcoming CXCR4-mediated T-cell exclusion potentiates antitumor cytotoxicity in fibrolamellar carcinoma. *Gastroenterology*.
 
-Nukaya, M., Cafferty, C., Zahed, K., ..., **Farghli, A. R.**, et al. CDK7 is a novel therapeutic vulnerability in fibrolamellar carcinoma. *iScience* (Accepted).
+Nukaya, M., Carney, P. R., Cafferty, C., et al. (2025). CDK7 is a novel therapeutic target in fibrolamellar carcinoma. *iScience*.
 
-Bharath, N., DiPietro, E., Karski, M., ..., **Farghli, A. R.**, et al. (2025). Expression of DNAJB1-PRKACA oncogene suppresses the differentiation potential of liver progenitor organoids towards a hepatocyte lineage. *Molecular Cancer Research* (Accepted).
+DiPietro, E., Bharath, N., Karski, M., ..., **Farghli, A. R.**, et al. (2025). Expression of DNAJB1-PRKACA oncogene suppresses the differentiation potential of liver progenitor organoids towards a hepatocyte lineage. *Scientific Reports*.
 
-Ma, R. K., Tsai, P.-Y., **Farghli, A. R.**, et al. (2024). DNAJB1-PRKACA fusion protein-regulated LINC00473 promotes tumor growth and alters mitochondrial fitness in fibrolamellar carcinoma. *PLOS Genetics, 20*(3).
+Ma, R. K., Tsai, P.-Y., **Farghli, A. R.**, et al. (2024). DNAJB1-PRKACA fusion protein-regulated LINC00473 promotes tumor growth and alters mitochondrial fitness in fibrolamellar carcinoma. *PLoS Genetics, 20*(3), e1011216.
 
-Liu, S., Benito-Martin, A., ..., **Farghli, A. R.**, et al. (2023). Breast adipose tissue-derived extracellular vesicles from obese women alter tumor cell metabolism. *EMBO Reports, 24*(12).
+Liu, S., Benito-Martin, A., Pelissier Vatter, F. A., ..., **Farghli, A. R.**, et al. (2023). Breast adipose tissue-derived extracellular vesicles from obese women alter tumor cell metabolism. *EMBO Reports, 24*(12). (23 citations)
 
-Francisco, A. B., Li, J., **Farghli, A. R.**, et al. (2022). Chemical, molecular, and single-nucleus analysis reveal chondroitin sulfate proteoglycan aberrancy in fibrolamellar carcinoma. *Cancer Research Communications, 2*(7), 663-678.
+Francisco, A. B., Li, J., **Farghli, A. R.**, et al. (2022). Chemical, molecular, and single-nucleus analysis reveal chondroitin sulfate proteoglycan aberrancy in fibrolamellar carcinoma. *Cancer Research Communications, 2*(7), 663-678. (13 citations)
 
-### Preprint
+### Thesis
 
-**Farghli, A. R.**, Chan, M., Sherman, M. S., et al. (2024). Single-cell multi-omic analysis of fibrolamellar carcinoma reveals rewired cell-to-cell communication patterns and unique vulnerabilities. *bioRxiv*.
+**Farghli, A. R.** (2024). Single-nucleus multi-omic investigations resolve and identify novel features of fibrolamellar carcinoma. Cornell University.
 
 ---
 
